@@ -3,11 +3,11 @@
 
 - 🔭 Actualmente estoy trabajando en mi proyecto [EatApp](httpshttps://github.com/GuillermoTorresRenner/eatapp)
 
-- 🌱 I’m currently learning **React en CoderHouse**
+- 🌱 Actualmente estoy estudiando **React en CoderHouse**
 
-- 💬 Ask me about **react, vue, quasar framework, python, express**
+- 💬 Pregúntame acerca de  **react, vue, quasar framework, python, express**
 
-- 📫 How to reach me **torresrennerguillermo@gmail.com**
+- 📫 Contáctame a mi email personal **torresrennerguillermo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
