@@ -4,11 +4,7 @@
 </p>
 <hr/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/guillermotorres-fullstackdeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/Follow my-Linkedin profile-blue" alt="my Linkedin" />
-  </a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/guillermotorres-fullstackdeveloper" target="blank"><img src=" https://img.shields.io/badge/Follow my-Linkedin profile-blue" alt=" my Linkedin" /></a> </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/GuillermoTorresRenner.svg?style=social&label=Followers)](https://github.com/GuillermoTorresRenner?tab=followers)
 
